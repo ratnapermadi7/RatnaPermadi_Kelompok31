@@ -2,7 +2,7 @@ package Mod4;
 import java.util.Arrays;
 public class def {
     public static void home(){
-        System.out.println("\n-----SELAMAT DATANG-----\n");
+        System.out.println("\n------SELAMAT DATANG------\n");
         System.out.println("Silahkan pilih Tempat Makan");
         System.out.println("1. Legender \n2. Heika \n3. Elite Coffe");
     }
