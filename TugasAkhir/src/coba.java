@@ -5,11 +5,11 @@ public class coba {
     public String []data;
     public coba(){
         this.data = new String[]{
-          "Rat","Ghea","Rony"
+          "Rat","Nano","Rony"
         };
     }
     public String tes(String id){
-     this.id = "Ghea";
+     this.id = "Nano";
      return id;
     }
     public static void main(String[] args) {
